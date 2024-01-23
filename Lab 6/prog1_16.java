@@ -1,6 +1,6 @@
 import java.util.*;
 
-class ImprovedStringProcessing {
+class prog1_16 {
     public static void main(String args[]) {
         // Question 1
         char[] charArray = { 'B', 'M', 'S', 'C', 'E' };
